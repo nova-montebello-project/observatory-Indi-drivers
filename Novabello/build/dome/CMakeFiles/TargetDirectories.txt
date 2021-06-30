@@ -1,0 +1,7 @@
+/home/pi/Novabello/build/dome/CMakeFiles/install/strip.dir
+/home/pi/Novabello/build/dome/CMakeFiles/edit_cache.dir
+/home/pi/Novabello/build/dome/CMakeFiles/indi_novabello_dome.dir
+/home/pi/Novabello/build/dome/CMakeFiles/install/local.dir
+/home/pi/Novabello/build/dome/CMakeFiles/rebuild_cache.dir
+/home/pi/Novabello/build/dome/CMakeFiles/list_install_components.dir
+/home/pi/Novabello/build/dome/CMakeFiles/install.dir

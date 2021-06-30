@@ -1,0 +1,2 @@
+/usr/bin/indi_novabello_dome
+/usr/share/indi/indi_novabello_dome.xml
